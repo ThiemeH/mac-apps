@@ -7,7 +7,7 @@ fi
 
 INPUT_FILE="$1"
 OUTPUT_DIR="../generated"
-RESIZE_DIMENSION=45
+RESIZE_DIMENSION=80
 
 if [ ! -f "$INPUT_FILE" ]; then
     echo "Error: $INPUT_FILE not found."
