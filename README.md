@@ -76,7 +76,7 @@ Auto suggestions in terminal. Unfortunately, an account is required to use this 
 
 <img align="left" width="80" height="80" src="./assets/app-icons/openinterminal-lite.png">
 
-### [OpenInTerminal-Lite](https://github.com/Ji4n1ng/OpenInTerminal)
+### [OpenInTerminal-Lite](https://github.com/Ji4n1ng/OpenInTerminal)  <img alt="Open Source Badge" src="https://img.shields.io/badge/Open%20Source-white?logo=opensourceinitiative&logoColor=black" height="14">
 Create a button in finder to open the current directory in a terminal.
 
 <details>
@@ -88,7 +88,7 @@ Create a button in finder to open the current directory in a terminal.
 
 <img align="left" width="80" height="80" src="./assets/app-icons/monitorcontrol.png">
 
-### [MonitorControl](https://github.com/MonitorControl/MonitorControl)
+### [MonitorControl](https://github.com/MonitorControl/MonitorControl)  <img alt="Open Source Badge" src="https://img.shields.io/badge/Open%20Source-white?logo=opensourceinitiative&logoColor=black" height="14">
 Use keyboard brightness buttons to change the brightness of the display where your cursor is.
 
 <details>
