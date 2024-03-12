@@ -1,9 +1,15 @@
-![Stars](https://img.shields.io/github/stars/ThiemeH/mac-apps
-)
+![Header image](./assets/header.png)
+<p align="center">
+<img src="https://img.shields.io/github/stars/ThiemeH/mac-apps">
+<h3 align="center"><i>Elevate your Mac experience</i></h3>
+</p>
 
-# Mac apps
-
-Awesome mac apps that are hard to live without
+## Table of contents
+- [1. Mac Essentials](#1-mac-essentials)
+- [2. Mac Apps](#2-mac-apps)
+- [3. Essential CLI](#3-essential-cli)
+- [4. Extra](#4-extra)
+  - [4.1 Raycast Extensions](#41-raycast-extensions)
 
 ## 1. Mac essentials
 
@@ -169,9 +175,9 @@ I use this to hide apps from the app switcher that are on other desktops/minimiz
 
 ---
 
-Useful mac apps:
+## 2. Mac Apps
 
-CLI tools:
+## 3. Essential CLI
 
 Homebrew
 
@@ -179,6 +185,8 @@ ffmpeg
 
 imagemagick
 
-Raycast extensions:
+## 4. Extra
+
+### 4.1 Raycast Extensions
 
 Clipboard history
